@@ -1,0 +1,13 @@
+F:\Sample Project\NewSelfNetCore\test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Sample Project\NewSelfNetCore\test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+F:\Sample Project\NewSelfNetCore\test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+F:\Sample Project\NewSelfNetCore\test\bin\Debug\netcoreapp2.0\test.deps.json
+F:\Sample Project\NewSelfNetCore\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+F:\Sample Project\NewSelfNetCore\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+F:\Sample Project\NewSelfNetCore\test\bin\Debug\netcoreapp2.0\test.dll
+F:\Sample Project\NewSelfNetCore\test\bin\Debug\netcoreapp2.0\test.pdb
+F:\Sample Project\NewSelfNetCore\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+F:\Sample Project\NewSelfNetCore\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+F:\Sample Project\NewSelfNetCore\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+F:\Sample Project\NewSelfNetCore\test\obj\Debug\netcoreapp2.0\test.dll
+F:\Sample Project\NewSelfNetCore\test\obj\Debug\netcoreapp2.0\test.pdb
