@@ -1,0 +1,10 @@
+F:\Sample Project\NewSelfNetCore\api\bin\Debug\netcoreapp2.0\api.deps.json
+F:\Sample Project\NewSelfNetCore\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.json
+F:\Sample Project\NewSelfNetCore\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.dev.json
+F:\Sample Project\NewSelfNetCore\api\bin\Debug\netcoreapp2.0\api.dll
+F:\Sample Project\NewSelfNetCore\api\bin\Debug\netcoreapp2.0\api.pdb
+F:\Sample Project\NewSelfNetCore\api\obj\Debug\netcoreapp2.0\api.csproj.CoreCompileInputs.cache
+F:\Sample Project\NewSelfNetCore\api\obj\Debug\netcoreapp2.0\api.AssemblyInfoInputs.cache
+F:\Sample Project\NewSelfNetCore\api\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
+F:\Sample Project\NewSelfNetCore\api\obj\Debug\netcoreapp2.0\api.dll
+F:\Sample Project\NewSelfNetCore\api\obj\Debug\netcoreapp2.0\api.pdb

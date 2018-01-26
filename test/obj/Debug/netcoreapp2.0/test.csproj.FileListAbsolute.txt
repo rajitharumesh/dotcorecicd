@@ -11,3 +11,5 @@ F:\Sample Project\NewSelfNetCore\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoI
 F:\Sample Project\NewSelfNetCore\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
 F:\Sample Project\NewSelfNetCore\test\obj\Debug\netcoreapp2.0\test.dll
 F:\Sample Project\NewSelfNetCore\test\obj\Debug\netcoreapp2.0\test.pdb
+F:\Sample Project\NewSelfNetCore\test\bin\Debug\netcoreapp2.0\api.dll
+F:\Sample Project\NewSelfNetCore\test\bin\Debug\netcoreapp2.0\api.pdb

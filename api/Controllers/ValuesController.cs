@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using api.dto;
+using Newtonsoft.Json;
+using System.Net.Http;
 
 namespace api.Controllers
 {
@@ -16,12 +19,23 @@ namespace api.Controllers
             return new string[] { "value1", "value2" };
         }
 
+        //http://localhost:5000/api/values/42
+        [HttpGet("{number}")]
+        public async Task<ApiResponse> GetAsync(int number)
+        {
+            //Call numbersapi.com and return results
+            var httpClient = new HttpClient();
+            var response = await httpClient.GetAsync("http://numbersapi.com/" + number + "?json");
+            var triviaResult = await response.Content.ReadAsStringAsync();
+            return JsonConvert.DeserializeObject<ApiResponse>(triviaResult);
+        }
+
         // GET api/values/5
-        [HttpGet("{id}")]
+        /*[HttpGet("{id}")]
         public string Get(int id)
         {
             return "value";
-        }
+        }*/
 
         // POST api/values
         [HttpPost]
